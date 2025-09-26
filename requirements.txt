@@ -1,0 +1,10 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+pandas==2.1.1
+scikit-learn
+numpy==1.26.0
+nltk==3.8.1
+spacy
+joblib
+python-multipart
+gunicorn==20.1.0
