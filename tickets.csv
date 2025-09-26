@@ -1,0 +1,501 @@
+Ticket_ID,Subject,Description,Category,Priority,Timestamp
+1,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-06-30 10:12:00
+2,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-02-08 21:03:00
+3,Add dark mode,Requesting a dark theme option.,Feature Request,Medium,2025-05-17 20:25:00
+4,Account locked,Account locked after multiple attempts.,Account Management,Low,2025-08-21 08:54:00
+5,2FA issue,Two-factor authentication code not accepted.,Account Management,High,2025-09-10 13:58:00
+6,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Medium,2025-04-16 17:37:00
+7,Add dark mode,Requesting a dark theme option.,Feature Request,Medium,2025-03-09 12:42:00
+8,2FA issue,Two-factor authentication code not accepted.,Account Management,High,2025-03-17 01:47:00
+9,Multi-language support,Please support Spanish and French.,Feature Request,High,2025-04-21 14:09:00
+10,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Medium,2025-03-03 22:02:00
+11,Unable to reset password,Reset link not working.,Account Management,Low,2025-06-05 23:08:00
+12,2FA issue,Two-factor authentication code not accepted.,Account Management,Medium,2025-08-16 11:33:00
+13,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,High,2025-03-26 12:19:00
+14,Account locked,Account locked after multiple attempts.,Account Management,Low,2025-09-21 17:33:00
+15,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,High,2025-07-18 16:01:00
+16,Multi-language support,Please support Spanish and French.,Feature Request,Medium,2025-09-06 17:52:00
+17,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-07-23 20:29:00
+18,Export to CSV,Need option to export reports as CSV.,Feature Request,Low,2025-08-30 01:14:00
+19,2FA issue,Two-factor authentication code not accepted.,Account Management,High,2025-01-16 07:23:00
+20,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Medium,2025-08-13 16:37:00
+21,Export to CSV,Need option to export reports as CSV.,Feature Request,Low,2025-07-24 06:26:00
+22,Export to CSV,Need option to export reports as CSV.,Feature Request,Medium,2025-08-03 11:25:00
+23,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,Medium,2025-04-30 03:08:00
+24,Unable to reset password,Reset link not working.,Account Management,High,2025-07-09 20:49:00
+25,Account locked,Account locked after multiple attempts.,Account Management,Low,2025-01-16 15:47:00
+26,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Medium,2025-05-22 06:10:00
+27,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,High,2025-07-30 17:11:00
+28,Unable to reset password,Reset link not working.,Account Management,High,2025-04-23 05:43:00
+29,Unable to reset password,Reset link not working.,Account Management,High,2025-03-02 06:44:00
+30,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,Low,2025-05-02 04:16:00
+31,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Medium,2025-03-12 03:53:00
+32,Account locked,Account locked after multiple attempts.,Account Management,Medium,2025-05-24 12:50:00
+33,Multi-language support,Please support Spanish and French.,Feature Request,High,2025-04-23 06:31:00
+34,Slow performance,The app is running very slowly.,Technical Issue,Low,2025-05-31 23:57:00
+35,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Low,2025-03-04 17:31:00
+36,Slow performance,The app is running very slowly.,Technical Issue,Medium,2025-05-03 14:27:00
+37,Account locked,Account locked after multiple attempts.,Account Management,High,2025-07-31 18:00:00
+38,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Medium,2025-05-04 02:00:00
+39,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Low,2025-01-04 15:56:00
+40,App crashes on login,The app crashes when I try to log in.,Bug Report,High,2025-03-29 08:30:00
+41,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,High,2025-07-11 00:56:00
+42,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Low,2025-04-19 05:12:00
+43,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,Low,2025-07-08 11:18:00
+44,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-05-25 10:59:00
+45,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-07-29 01:24:00
+46,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Low,2025-08-11 22:38:00
+47,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Low,2025-04-13 06:58:00
+48,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Medium,2025-08-09 06:08:00
+49,Cannot update profile,Error while saving profile changes.,Account Management,Medium,2025-04-26 20:32:00
+50,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-08-27 22:30:00
+51,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-05-02 00:50:00
+52,App crashes on login,The app crashes when I try to log in.,Bug Report,Low,2025-08-18 00:06:00
+53,Multi-language support,Please support Spanish and French.,Feature Request,High,2025-02-20 06:15:00
+54,Cannot update profile,Error while saving profile changes.,Account Management,Medium,2025-06-18 10:17:00
+55,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Low,2025-04-03 11:08:00
+56,Slow performance,The app is running very slowly.,Technical Issue,High,2025-05-30 13:15:00
+57,Export to CSV,Need option to export reports as CSV.,Feature Request,Medium,2025-05-15 15:32:00
+58,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-01-02 13:19:00
+59,Multi-language support,Please support Spanish and French.,Feature Request,High,2025-03-06 08:18:00
+60,Account locked,Account locked after multiple attempts.,Account Management,Medium,2025-04-03 16:21:00
+61,Slow performance,The app is running very slowly.,Technical Issue,Low,2025-02-08 20:41:00
+62,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,High,2025-09-16 04:40:00
+63,Add dark mode,Requesting a dark theme option.,Feature Request,Medium,2025-07-24 12:26:00
+64,Account locked,Account locked after multiple attempts.,Account Management,Medium,2025-05-17 08:42:00
+65,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Medium,2025-01-05 08:03:00
+66,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Medium,2025-04-29 17:32:00
+67,Unable to reset password,Reset link not working.,Account Management,Medium,2025-03-11 02:32:00
+68,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Medium,2025-01-18 03:51:00
+69,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-07-27 03:33:00
+70,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,High,2025-03-28 03:19:00
+71,App freezes,The app freezes after last update.,Bug Report,Medium,2025-07-24 21:23:00
+72,Mobile widget,Would like a quick widget for mobile app.,Feature Request,High,2025-04-05 05:30:00
+73,Cannot update profile,Error while saving profile changes.,Account Management,Medium,2025-07-06 18:35:00
+74,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Low,2025-02-10 23:49:00
+75,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,Medium,2025-07-16 22:10:00
+76,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,High,2025-02-19 21:17:00
+77,Cannot update profile,Error while saving profile changes.,Account Management,Low,2025-02-18 19:09:00
+78,Cannot update profile,Error while saving profile changes.,Account Management,High,2025-05-10 17:10:00
+79,Account locked,Account locked after multiple attempts.,Account Management,Medium,2025-04-30 00:29:00
+80,App crashes on login,The app crashes when I try to log in.,Bug Report,Low,2025-03-18 03:02:00
+81,App freezes,The app freezes after last update.,Bug Report,Low,2025-07-29 23:11:00
+82,Email not sending,Support emails are not being sent.,Technical Issue,Medium,2025-05-04 21:04:00
+83,2FA issue,Two-factor authentication code not accepted.,Account Management,High,2025-02-04 04:28:00
+84,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Low,2025-08-08 08:30:00
+85,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,Low,2025-06-25 10:28:00
+86,Cannot update profile,Error while saving profile changes.,Account Management,Low,2025-06-21 19:36:00
+87,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Low,2025-01-11 15:45:00
+88,App freezes,The app freezes after last update.,Bug Report,Medium,2025-09-15 15:59:00
+89,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,High,2025-05-18 11:58:00
+90,Export to CSV,Need option to export reports as CSV.,Feature Request,Low,2025-08-20 03:31:00
+91,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,High,2025-04-11 12:40:00
+92,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-09-09 20:15:00
+93,Email not sending,Support emails are not being sent.,Technical Issue,Medium,2025-04-02 04:19:00
+94,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Low,2025-05-14 07:26:00
+95,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-09-15 20:48:00
+96,Multi-language support,Please support Spanish and French.,Feature Request,High,2025-07-06 16:42:00
+97,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,High,2025-01-26 10:08:00
+98,Account locked,Account locked after multiple attempts.,Account Management,Medium,2025-01-21 09:11:00
+99,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Low,2025-02-21 19:30:00
+100,App crashes on login,The app crashes when I try to log in.,Bug Report,High,2025-08-17 03:22:00
+101,Multi-language support,Please support Spanish and French.,Feature Request,Medium,2025-07-20 06:45:00
+102,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,Medium,2025-08-16 05:39:00
+103,Unable to reset password,Reset link not working.,Account Management,High,2025-09-06 15:24:00
+104,Cannot update profile,Error while saving profile changes.,Account Management,Medium,2025-09-25 15:22:00
+105,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,High,2025-05-29 15:24:00
+106,2FA issue,Two-factor authentication code not accepted.,Account Management,High,2025-08-15 05:50:00
+107,App freezes,The app freezes after last update.,Bug Report,High,2025-09-04 06:03:00
+108,Slow performance,The app is running very slowly.,Technical Issue,Medium,2025-01-20 08:13:00
+109,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Low,2025-07-22 11:07:00
+110,Integration error,Error when integrating with third-party tool.,Technical Issue,Low,2025-03-01 06:36:00
+111,Slow performance,The app is running very slowly.,Technical Issue,Medium,2025-01-09 20:37:00
+112,Slow performance,The app is running very slowly.,Technical Issue,Low,2025-09-11 16:37:00
+113,App freezes,The app freezes after last update.,Bug Report,High,2025-02-11 12:06:00
+114,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,Medium,2025-02-17 21:22:00
+115,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,High,2025-04-05 04:13:00
+116,Account locked,Account locked after multiple attempts.,Account Management,Low,2025-06-12 19:38:00
+117,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-03-06 00:43:00
+118,Cannot update profile,Error while saving profile changes.,Account Management,High,2025-03-13 11:32:00
+119,Multi-language support,Please support Spanish and French.,Feature Request,High,2025-08-16 07:26:00
+120,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-03-20 15:40:00
+121,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-02-21 07:04:00
+122,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Medium,2025-03-14 07:06:00
+123,Export to CSV,Need option to export reports as CSV.,Feature Request,Low,2025-02-21 09:48:00
+124,Multi-language support,Please support Spanish and French.,Feature Request,Medium,2025-09-02 12:01:00
+125,Add dark mode,Requesting a dark theme option.,Feature Request,High,2025-07-08 05:19:00
+126,Export to CSV,Need option to export reports as CSV.,Feature Request,Medium,2025-09-06 09:42:00
+127,Add dark mode,Requesting a dark theme option.,Feature Request,Medium,2025-08-13 12:50:00
+128,Export to CSV,Need option to export reports as CSV.,Feature Request,Medium,2025-05-09 15:59:00
+129,Cannot update profile,Error while saving profile changes.,Account Management,High,2025-07-27 16:38:00
+130,App crashes on login,The app crashes when I try to log in.,Bug Report,Low,2025-03-05 19:16:00
+131,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Medium,2025-03-11 08:04:00
+132,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Low,2025-04-13 21:38:00
+133,Crash on checkout,App crashes during checkout process.,Bug Report,Low,2025-07-17 22:26:00
+134,App crashes on login,The app crashes when I try to log in.,Bug Report,Medium,2025-09-28 14:48:00
+135,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,High,2025-01-20 22:55:00
+136,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,High,2025-03-08 11:44:00
+137,App freezes,The app freezes after last update.,Bug Report,High,2025-06-29 03:15:00
+138,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Medium,2025-05-18 05:20:00
+139,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-04-13 04:57:00
+140,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Medium,2025-02-24 01:49:00
+141,App freezes,The app freezes after last update.,Bug Report,High,2025-06-28 04:07:00
+142,App crashes on login,The app crashes when I try to log in.,Bug Report,High,2025-04-25 14:30:00
+143,2FA issue,Two-factor authentication code not accepted.,Account Management,High,2025-08-04 08:10:00
+144,Crash on checkout,App crashes during checkout process.,Bug Report,Medium,2025-04-13 21:38:00
+145,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Medium,2025-04-30 18:40:00
+146,App freezes,The app freezes after last update.,Bug Report,Medium,2025-03-18 10:49:00
+147,Export to CSV,Need option to export reports as CSV.,Feature Request,High,2025-09-04 13:58:00
+148,Slow performance,The app is running very slowly.,Technical Issue,Low,2025-03-17 16:51:00
+149,Slow performance,The app is running very slowly.,Technical Issue,High,2025-01-09 13:30:00
+150,Cannot update profile,Error while saving profile changes.,Account Management,Low,2025-08-12 20:50:00
+151,Account locked,Account locked after multiple attempts.,Account Management,Low,2025-01-15 01:28:00
+152,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,Low,2025-06-25 16:11:00
+153,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Low,2025-07-05 11:39:00
+154,Crash on checkout,App crashes during checkout process.,Bug Report,Low,2025-05-17 02:27:00
+155,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-09-17 06:45:00
+156,Export to CSV,Need option to export reports as CSV.,Feature Request,Low,2025-08-24 03:54:00
+157,Slow performance,The app is running very slowly.,Technical Issue,Medium,2025-04-12 01:28:00
+158,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Low,2025-06-14 04:02:00
+159,Email not sending,Support emails are not being sent.,Technical Issue,Medium,2025-01-05 10:26:00
+160,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-06-15 02:12:00
+161,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-09-08 17:21:00
+162,Slow performance,The app is running very slowly.,Technical Issue,High,2025-05-25 01:44:00
+163,2FA issue,Two-factor authentication code not accepted.,Account Management,High,2025-05-29 16:08:00
+164,2FA issue,Two-factor authentication code not accepted.,Account Management,Medium,2025-05-25 04:51:00
+165,Export to CSV,Need option to export reports as CSV.,Feature Request,Medium,2025-08-24 11:12:00
+166,Account locked,Account locked after multiple attempts.,Account Management,High,2025-09-18 10:03:00
+167,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-08-28 18:46:00
+168,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-09-25 20:09:00
+169,App crashes on login,The app crashes when I try to log in.,Bug Report,Low,2025-04-11 21:14:00
+170,App crashes on login,The app crashes when I try to log in.,Bug Report,Medium,2025-06-05 23:42:00
+171,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-06-03 11:42:00
+172,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-06-20 05:31:00
+173,2FA issue,Two-factor authentication code not accepted.,Account Management,Medium,2025-01-17 05:03:00
+174,Email not sending,Support emails are not being sent.,Technical Issue,Low,2025-07-23 06:45:00
+175,Account locked,Account locked after multiple attempts.,Account Management,Medium,2025-06-28 15:29:00
+176,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,High,2025-02-28 08:09:00
+177,Account locked,Account locked after multiple attempts.,Account Management,Low,2025-02-22 17:30:00
+178,Crash on checkout,App crashes during checkout process.,Bug Report,High,2025-08-11 21:06:00
+179,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Medium,2025-02-28 12:27:00
+180,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Medium,2025-05-23 11:03:00
+181,Crash on checkout,App crashes during checkout process.,Bug Report,Medium,2025-08-14 15:30:00
+182,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Low,2025-05-07 03:15:00
+183,Cannot update profile,Error while saving profile changes.,Account Management,Low,2025-02-06 21:14:00
+184,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-04-02 15:51:00
+185,Add dark mode,Requesting a dark theme option.,Feature Request,Medium,2025-08-04 14:48:00
+186,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Medium,2025-04-14 06:33:00
+187,Integration error,Error when integrating with third-party tool.,Technical Issue,High,2025-07-25 01:32:00
+188,App freezes,The app freezes after last update.,Bug Report,High,2025-01-15 06:33:00
+189,App crashes on login,The app crashes when I try to log in.,Bug Report,Medium,2025-06-20 15:15:00
+190,Account locked,Account locked after multiple attempts.,Account Management,Low,2025-02-06 15:18:00
+191,Account locked,Account locked after multiple attempts.,Account Management,Low,2025-04-14 17:27:00
+192,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,High,2025-07-14 01:28:00
+193,Cannot update profile,Error while saving profile changes.,Account Management,Medium,2025-01-12 14:12:00
+194,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-09-28 10:40:00
+195,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-04-24 19:20:00
+196,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-02-21 11:26:00
+197,Crash on checkout,App crashes during checkout process.,Bug Report,Medium,2025-07-04 21:30:00
+198,Account locked,Account locked after multiple attempts.,Account Management,Low,2025-05-01 03:54:00
+199,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-07-03 03:11:00
+200,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,Medium,2025-09-19 15:12:00
+201,Slow performance,The app is running very slowly.,Technical Issue,High,2025-07-25 11:22:00
+202,Email not sending,Support emails are not being sent.,Technical Issue,High,2025-03-04 01:19:00
+203,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,Medium,2025-07-18 18:56:00
+204,Unable to reset password,Reset link not working.,Account Management,High,2025-07-14 05:05:00
+205,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Low,2025-01-18 12:46:00
+206,Crash on checkout,App crashes during checkout process.,Bug Report,Low,2025-09-19 16:33:00
+207,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,Medium,2025-01-03 22:28:00
+208,Cannot update profile,Error while saving profile changes.,Account Management,Low,2025-01-03 11:20:00
+209,App crashes on login,The app crashes when I try to log in.,Bug Report,Low,2025-05-31 17:40:00
+210,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Medium,2025-01-18 02:04:00
+211,App crashes on login,The app crashes when I try to log in.,Bug Report,Medium,2025-09-08 08:42:00
+212,Mobile widget,Would like a quick widget for mobile app.,Feature Request,High,2025-07-04 01:16:00
+213,Export to CSV,Need option to export reports as CSV.,Feature Request,Medium,2025-03-15 05:11:00
+214,Email not sending,Support emails are not being sent.,Technical Issue,High,2025-02-15 03:20:00
+215,App crashes on login,The app crashes when I try to log in.,Bug Report,Low,2025-08-09 05:32:00
+216,Integration error,Error when integrating with third-party tool.,Technical Issue,Low,2025-03-27 22:31:00
+217,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Low,2025-01-06 22:00:00
+218,Slow performance,The app is running very slowly.,Technical Issue,Medium,2025-09-12 04:01:00
+219,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,Medium,2025-03-08 15:03:00
+220,Unable to reset password,Reset link not working.,Account Management,Low,2025-01-02 21:57:00
+221,App crashes on login,The app crashes when I try to log in.,Bug Report,High,2025-07-04 07:47:00
+222,Crash on checkout,App crashes during checkout process.,Bug Report,Medium,2025-08-23 06:36:00
+223,App freezes,The app freezes after last update.,Bug Report,High,2025-05-23 06:30:00
+224,App crashes on login,The app crashes when I try to log in.,Bug Report,Low,2025-08-11 17:51:00
+225,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,Low,2025-05-25 10:09:00
+226,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-04-27 02:42:00
+227,Add dark mode,Requesting a dark theme option.,Feature Request,Medium,2025-02-04 17:26:00
+228,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,High,2025-08-28 07:40:00
+229,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Low,2025-04-21 22:20:00
+230,App freezes,The app freezes after last update.,Bug Report,Low,2025-07-15 22:47:00
+231,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-07-25 09:04:00
+232,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Low,2025-08-06 19:21:00
+233,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,Medium,2025-04-09 00:36:00
+234,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,High,2025-01-09 08:02:00
+235,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-03-10 05:58:00
+236,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,High,2025-03-20 10:22:00
+237,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,Medium,2025-04-25 03:15:00
+238,Email not sending,Support emails are not being sent.,Technical Issue,Medium,2025-03-17 12:38:00
+239,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,Low,2025-04-06 00:14:00
+240,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,High,2025-04-26 14:07:00
+241,Add dark mode,Requesting a dark theme option.,Feature Request,High,2025-07-01 22:01:00
+242,Crash on checkout,App crashes during checkout process.,Bug Report,Medium,2025-03-18 23:12:00
+243,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Medium,2025-02-13 17:28:00
+244,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Low,2025-05-27 02:47:00
+245,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,High,2025-06-01 05:39:00
+246,Integration error,Error when integrating with third-party tool.,Technical Issue,High,2025-05-21 02:29:00
+247,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,High,2025-04-05 06:51:00
+248,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-06-16 23:03:00
+249,Email not sending,Support emails are not being sent.,Technical Issue,Medium,2025-05-22 07:53:00
+250,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,Medium,2025-08-12 02:24:00
+251,Slow performance,The app is running very slowly.,Technical Issue,Low,2025-06-22 03:59:00
+252,Account locked,Account locked after multiple attempts.,Account Management,High,2025-04-18 09:34:00
+253,Export to CSV,Need option to export reports as CSV.,Feature Request,Medium,2025-01-25 08:52:00
+254,Integration error,Error when integrating with third-party tool.,Technical Issue,High,2025-08-31 00:01:00
+255,Unable to reset password,Reset link not working.,Account Management,Medium,2025-04-03 05:31:00
+256,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-05-18 17:40:00
+257,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Low,2025-06-14 07:10:00
+258,App freezes,The app freezes after last update.,Bug Report,Low,2025-05-01 14:50:00
+259,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-02-02 03:30:00
+260,App freezes,The app freezes after last update.,Bug Report,High,2025-02-12 12:33:00
+261,Slow performance,The app is running very slowly.,Technical Issue,High,2025-04-09 23:35:00
+262,Slow performance,The app is running very slowly.,Technical Issue,High,2025-08-18 05:05:00
+263,Integration error,Error when integrating with third-party tool.,Technical Issue,High,2025-03-26 12:18:00
+264,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-03-06 14:34:00
+265,Multi-language support,Please support Spanish and French.,Feature Request,High,2025-09-08 00:19:00
+266,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Low,2025-03-08 17:44:00
+267,App freezes,The app freezes after last update.,Bug Report,Medium,2025-06-14 14:21:00
+268,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Medium,2025-09-27 22:37:00
+269,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Low,2025-07-23 11:56:00
+270,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Medium,2025-06-12 13:22:00
+271,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,High,2025-08-17 05:03:00
+272,Email not sending,Support emails are not being sent.,Technical Issue,High,2025-04-16 23:16:00
+273,Integration error,Error when integrating with third-party tool.,Technical Issue,High,2025-06-15 11:22:00
+274,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Low,2025-07-25 01:30:00
+275,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-02-05 02:36:00
+276,App crashes on login,The app crashes when I try to log in.,Bug Report,Medium,2025-07-30 05:28:00
+277,Crash on checkout,App crashes during checkout process.,Bug Report,Low,2025-07-17 12:35:00
+278,Export to CSV,Need option to export reports as CSV.,Feature Request,High,2025-03-04 15:34:00
+279,Integration error,Error when integrating with third-party tool.,Technical Issue,High,2025-09-06 08:51:00
+280,App crashes on login,The app crashes when I try to log in.,Bug Report,Medium,2025-06-24 15:32:00
+281,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,High,2025-07-30 07:23:00
+282,Email not sending,Support emails are not being sent.,Technical Issue,Medium,2025-04-18 01:16:00
+283,Mobile widget,Would like a quick widget for mobile app.,Feature Request,High,2025-07-24 13:09:00
+284,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,Low,2025-03-30 09:41:00
+285,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,High,2025-04-04 03:18:00
+286,Slow performance,The app is running very slowly.,Technical Issue,Low,2025-08-06 10:54:00
+287,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,Low,2025-03-24 23:49:00
+288,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,Medium,2025-09-08 16:41:00
+289,App freezes,The app freezes after last update.,Bug Report,Medium,2025-04-27 10:06:00
+290,Account locked,Account locked after multiple attempts.,Account Management,High,2025-07-02 08:41:00
+291,App crashes on login,The app crashes when I try to log in.,Bug Report,Low,2025-01-06 07:57:00
+292,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-06-08 22:29:00
+293,Crash on checkout,App crashes during checkout process.,Bug Report,Medium,2025-06-12 19:37:00
+294,2FA issue,Two-factor authentication code not accepted.,Account Management,Medium,2025-04-21 21:26:00
+295,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,Medium,2025-02-01 07:51:00
+296,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,High,2025-04-19 17:03:00
+297,2FA issue,Two-factor authentication code not accepted.,Account Management,Medium,2025-08-15 05:51:00
+298,App freezes,The app freezes after last update.,Bug Report,High,2025-05-24 13:25:00
+299,Add dark mode,Requesting a dark theme option.,Feature Request,Medium,2025-02-20 00:11:00
+300,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,High,2025-04-26 20:06:00
+301,2FA issue,Two-factor authentication code not accepted.,Account Management,Medium,2025-09-01 12:15:00
+302,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-02-28 01:38:00
+303,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Medium,2025-05-05 09:51:00
+304,Email not sending,Support emails are not being sent.,Technical Issue,Low,2025-08-21 07:53:00
+305,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,High,2025-08-19 03:36:00
+306,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Medium,2025-03-03 18:09:00
+307,Unable to reset password,Reset link not working.,Account Management,High,2025-01-09 20:34:00
+308,Slow performance,The app is running very slowly.,Technical Issue,Low,2025-05-25 02:30:00
+309,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Low,2025-02-09 02:10:00
+310,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-01-16 15:43:00
+311,Email not sending,Support emails are not being sent.,Technical Issue,High,2025-01-29 20:12:00
+312,Slow performance,The app is running very slowly.,Technical Issue,Medium,2025-06-11 08:13:00
+313,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Medium,2025-01-03 09:39:00
+314,Email not sending,Support emails are not being sent.,Technical Issue,Medium,2025-08-16 11:59:00
+315,2FA issue,Two-factor authentication code not accepted.,Account Management,High,2025-07-30 00:09:00
+316,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Medium,2025-07-13 03:33:00
+317,Email not sending,Support emails are not being sent.,Technical Issue,High,2025-03-31 08:38:00
+318,2FA issue,Two-factor authentication code not accepted.,Account Management,Medium,2025-08-19 22:30:00
+319,Crash on checkout,App crashes during checkout process.,Bug Report,High,2025-03-19 23:25:00
+320,Multi-language support,Please support Spanish and French.,Feature Request,Medium,2025-02-11 03:30:00
+321,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Medium,2025-05-08 15:05:00
+322,Integration error,Error when integrating with third-party tool.,Technical Issue,Low,2025-05-10 10:27:00
+323,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,Low,2025-06-27 18:00:00
+324,Integration error,Error when integrating with third-party tool.,Technical Issue,Low,2025-05-09 10:17:00
+325,Email not sending,Support emails are not being sent.,Technical Issue,Low,2025-03-29 11:27:00
+326,Multi-language support,Please support Spanish and French.,Feature Request,Medium,2025-09-07 19:49:00
+327,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,Medium,2025-09-20 23:35:00
+328,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-07-12 15:21:00
+329,Integration error,Error when integrating with third-party tool.,Technical Issue,High,2025-08-05 21:35:00
+330,Mobile widget,Would like a quick widget for mobile app.,Feature Request,High,2025-06-03 12:37:00
+331,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-06-24 13:36:00
+332,Multi-language support,Please support Spanish and French.,Feature Request,High,2025-08-15 19:44:00
+333,Export to CSV,Need option to export reports as CSV.,Feature Request,High,2025-01-05 01:56:00
+334,App crashes on login,The app crashes when I try to log in.,Bug Report,Medium,2025-07-01 02:17:00
+335,Email not sending,Support emails are not being sent.,Technical Issue,High,2025-09-12 07:51:00
+336,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Low,2025-05-08 20:21:00
+337,2FA issue,Two-factor authentication code not accepted.,Account Management,High,2025-06-12 18:50:00
+338,Integration error,Error when integrating with third-party tool.,Technical Issue,High,2025-01-10 02:45:00
+339,Crash on checkout,App crashes during checkout process.,Bug Report,Medium,2025-07-09 23:26:00
+340,App freezes,The app freezes after last update.,Bug Report,High,2025-09-26 11:38:00
+341,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,High,2025-03-12 06:47:00
+342,Email not sending,Support emails are not being sent.,Technical Issue,Low,2025-03-06 05:45:00
+343,Account locked,Account locked after multiple attempts.,Account Management,Low,2025-02-14 01:17:00
+344,Crash on checkout,App crashes during checkout process.,Bug Report,Low,2025-05-02 09:41:00
+345,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,Medium,2025-02-02 11:47:00
+346,Slow performance,The app is running very slowly.,Technical Issue,Medium,2025-06-05 12:16:00
+347,Multi-language support,Please support Spanish and French.,Feature Request,Medium,2025-08-13 18:33:00
+348,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,High,2025-07-29 21:55:00
+349,App freezes,The app freezes after last update.,Bug Report,High,2025-04-10 07:10:00
+350,Slow performance,The app is running very slowly.,Technical Issue,Low,2025-05-01 03:21:00
+351,App crashes on login,The app crashes when I try to log in.,Bug Report,Medium,2025-02-25 17:27:00
+352,Email not sending,Support emails are not being sent.,Technical Issue,High,2025-06-03 19:39:00
+353,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-04-08 20:52:00
+354,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,High,2025-02-10 23:35:00
+355,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,High,2025-01-12 15:00:00
+356,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Medium,2025-02-07 18:46:00
+357,App freezes,The app freezes after last update.,Bug Report,Medium,2025-01-08 16:31:00
+358,Multi-language support,Please support Spanish and French.,Feature Request,High,2025-05-04 03:07:00
+359,2FA issue,Two-factor authentication code not accepted.,Account Management,High,2025-06-15 05:32:00
+360,App freezes,The app freezes after last update.,Bug Report,Low,2025-02-09 12:46:00
+361,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-06-15 01:46:00
+362,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-07-30 23:48:00
+363,Unable to reset password,Reset link not working.,Account Management,Low,2025-05-07 09:12:00
+364,Slow performance,The app is running very slowly.,Technical Issue,High,2025-08-26 21:35:00
+365,2FA issue,Two-factor authentication code not accepted.,Account Management,High,2025-05-10 14:16:00
+366,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Low,2025-05-29 23:28:00
+367,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Low,2025-09-13 14:36:00
+368,App freezes,The app freezes after last update.,Bug Report,High,2025-01-29 23:18:00
+369,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Low,2025-09-19 17:28:00
+370,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-04-18 19:03:00
+371,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Medium,2025-06-22 06:58:00
+372,2FA issue,Two-factor authentication code not accepted.,Account Management,Medium,2025-03-30 13:19:00
+373,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,Medium,2025-09-17 18:57:00
+374,Unable to reset password,Reset link not working.,Account Management,Low,2025-08-11 18:49:00
+375,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,High,2025-08-30 02:09:00
+376,Cannot update profile,Error while saving profile changes.,Account Management,Low,2025-05-15 14:54:00
+377,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,Low,2025-07-20 07:26:00
+378,Export to CSV,Need option to export reports as CSV.,Feature Request,Low,2025-03-05 11:46:00
+379,2FA issue,Two-factor authentication code not accepted.,Account Management,Medium,2025-09-28 14:36:00
+380,App crashes on login,The app crashes when I try to log in.,Bug Report,Low,2025-01-06 03:39:00
+381,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-07-16 21:15:00
+382,Multi-language support,Please support Spanish and French.,Feature Request,Medium,2025-04-09 01:32:00
+383,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-07-09 05:17:00
+384,Cannot update profile,Error while saving profile changes.,Account Management,Medium,2025-03-26 18:59:00
+385,Mobile widget,Would like a quick widget for mobile app.,Feature Request,High,2025-04-15 11:44:00
+386,Crash on checkout,App crashes during checkout process.,Bug Report,High,2025-08-07 09:15:00
+387,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,Low,2025-05-03 08:23:00
+388,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Medium,2025-06-02 15:50:00
+389,2FA issue,Two-factor authentication code not accepted.,Account Management,Medium,2025-06-27 02:31:00
+390,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,Medium,2025-07-24 06:36:00
+391,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-06-15 16:30:00
+392,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,High,2025-07-12 01:13:00
+393,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-07-14 02:22:00
+394,Unable to reset password,Reset link not working.,Account Management,Low,2025-05-19 17:10:00
+395,Mobile widget,Would like a quick widget for mobile app.,Feature Request,High,2025-01-12 01:19:00
+396,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Medium,2025-07-04 14:00:00
+397,App freezes,The app freezes after last update.,Bug Report,High,2025-09-13 09:13:00
+398,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,High,2025-07-25 20:34:00
+399,App crashes on login,The app crashes when I try to log in.,Bug Report,Low,2025-06-29 05:47:00
+400,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,High,2025-03-13 00:17:00
+401,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Medium,2025-03-15 07:14:00
+402,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,High,2025-05-11 06:02:00
+403,Unable to reset password,Reset link not working.,Account Management,High,2025-09-08 05:56:00
+404,Cannot update profile,Error while saving profile changes.,Account Management,Low,2025-06-13 18:19:00
+405,Export to CSV,Need option to export reports as CSV.,Feature Request,Low,2025-07-01 15:37:00
+406,Cannot update profile,Error while saving profile changes.,Account Management,Low,2025-08-16 06:44:00
+407,App crashes on login,The app crashes when I try to log in.,Bug Report,Medium,2025-06-13 18:24:00
+408,Cannot update profile,Error while saving profile changes.,Account Management,Low,2025-05-05 05:00:00
+409,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,High,2025-01-05 02:12:00
+410,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-09-15 20:04:00
+411,Export to CSV,Need option to export reports as CSV.,Feature Request,High,2025-07-18 17:26:00
+412,App freezes,The app freezes after last update.,Bug Report,Low,2025-03-18 08:11:00
+413,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,Low,2025-01-21 05:54:00
+414,2FA issue,Two-factor authentication code not accepted.,Account Management,Medium,2025-02-02 20:49:00
+415,App crashes on login,The app crashes when I try to log in.,Bug Report,Medium,2025-07-22 23:23:00
+416,2FA issue,Two-factor authentication code not accepted.,Account Management,High,2025-05-06 03:19:00
+417,Crash on checkout,App crashes during checkout process.,Bug Report,Medium,2025-03-07 06:29:00
+418,App crashes on login,The app crashes when I try to log in.,Bug Report,Medium,2025-04-14 19:25:00
+419,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-01-09 11:54:00
+420,Export to CSV,Need option to export reports as CSV.,Feature Request,High,2025-07-11 19:44:00
+421,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Low,2025-04-17 07:41:00
+422,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-09-12 16:23:00
+423,Email not sending,Support emails are not being sent.,Technical Issue,Medium,2025-08-01 22:12:00
+424,Multi-language support,Please support Spanish and French.,Feature Request,Medium,2025-01-01 09:42:00
+425,Mobile widget,Would like a quick widget for mobile app.,Feature Request,High,2025-06-29 21:27:00
+426,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Low,2025-03-16 18:08:00
+427,App crashes on login,The app crashes when I try to log in.,Bug Report,High,2025-01-22 18:07:00
+428,Cannot update profile,Error while saving profile changes.,Account Management,Low,2025-08-04 10:22:00
+429,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Medium,2025-02-27 17:00:00
+430,Export to CSV,Need option to export reports as CSV.,Feature Request,Medium,2025-04-01 10:11:00
+431,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-02-08 06:53:00
+432,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,High,2025-03-09 16:42:00
+433,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Low,2025-04-03 17:56:00
+434,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,High,2025-06-03 11:30:00
+435,Slow performance,The app is running very slowly.,Technical Issue,Medium,2025-02-10 17:11:00
+436,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-08-09 13:28:00
+437,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-05-31 04:30:00
+438,Account locked,Account locked after multiple attempts.,Account Management,Medium,2025-09-22 09:41:00
+439,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,Medium,2025-03-13 12:53:00
+440,Slow performance,The app is running very slowly.,Technical Issue,Medium,2025-02-24 07:16:00
+441,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Low,2025-02-05 16:54:00
+442,Cannot update profile,Error while saving profile changes.,Account Management,High,2025-01-24 03:46:00
+443,App freezes,The app freezes after last update.,Bug Report,Low,2025-07-11 09:35:00
+444,Email not sending,Support emails are not being sent.,Technical Issue,Low,2025-08-01 10:35:00
+445,Add dark mode,Requesting a dark theme option.,Feature Request,High,2025-08-03 02:25:00
+446,Multi-language support,Please support Spanish and French.,Feature Request,Medium,2025-05-13 13:49:00
+447,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,Medium,2025-02-07 13:56:00
+448,Slow performance,The app is running very slowly.,Technical Issue,Medium,2025-08-24 08:02:00
+449,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,Medium,2025-05-06 01:39:00
+450,Unable to reset password,Reset link not working.,Account Management,High,2025-04-22 21:42:00
+451,Integration error,Error when integrating with third-party tool.,Technical Issue,Low,2025-09-01 05:50:00
+452,Multi-language support,Please support Spanish and French.,Feature Request,Medium,2025-09-15 01:25:00
+453,Export to CSV,Need option to export reports as CSV.,Feature Request,Medium,2025-09-27 20:36:00
+454,Slow performance,The app is running very slowly.,Technical Issue,Medium,2025-03-17 01:36:00
+455,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-06-10 03:43:00
+456,Export to CSV,Need option to export reports as CSV.,Feature Request,Low,2025-03-09 07:46:00
+457,Crash on checkout,App crashes during checkout process.,Bug Report,Medium,2025-04-09 00:58:00
+458,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,Medium,2025-04-30 21:38:00
+459,Account locked,Account locked after multiple attempts.,Account Management,Medium,2025-05-21 03:06:00
+460,Email not sending,Support emails are not being sent.,Technical Issue,Medium,2025-08-31 15:58:00
+461,Account locked,Account locked after multiple attempts.,Account Management,Medium,2025-05-23 03:10:00
+462,Multi-language support,Please support Spanish and French.,Feature Request,High,2025-09-04 07:42:00
+463,Export to CSV,Need option to export reports as CSV.,Feature Request,Low,2025-02-26 10:05:00
+464,App freezes,The app freezes after last update.,Bug Report,Medium,2025-06-02 10:28:00
+465,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,High,2025-06-09 18:20:00
+466,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Low,2025-05-20 00:11:00
+467,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Low,2025-05-12 04:07:00
+468,Cannot update profile,Error while saving profile changes.,Account Management,Medium,2025-08-20 14:42:00
+469,2FA issue,Two-factor authentication code not accepted.,Account Management,Low,2025-01-30 22:21:00
+470,Slow performance,The app is running very slowly.,Technical Issue,Medium,2025-05-28 15:31:00
+471,Integration error,Error when integrating with third-party tool.,Technical Issue,Medium,2025-08-14 23:34:00
+472,App crashes on login,The app crashes when I try to log in.,Bug Report,Low,2025-06-07 19:46:00
+473,Export to CSV,Need option to export reports as CSV.,Feature Request,Low,2025-05-12 17:08:00
+474,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,Medium,2025-04-08 20:03:00
+475,Error 500 on dashboard,Dashboard throws internal server error.,Bug Report,High,2025-08-03 03:34:00
+476,Mobile widget,Would like a quick widget for mobile app.,Feature Request,High,2025-01-26 14:13:00
+477,Wrong invoice amount,Invoice shows incorrect total.,Billing Inquiry,Medium,2025-06-25 00:27:00
+478,Account locked,Account locked after multiple attempts.,Account Management,High,2025-04-21 04:31:00
+479,Email not sending,Support emails are not being sent.,Technical Issue,Medium,2025-09-03 19:44:00
+480,Duplicate charge,Charged twice for same subscription.,Billing Inquiry,High,2025-05-30 09:06:00
+481,Crash on checkout,App crashes during checkout process.,Bug Report,High,2025-07-14 04:33:00
+482,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,High,2025-09-05 00:44:00
+483,Email not sending,Support emails are not being sent.,Technical Issue,High,2025-02-24 15:32:00
+484,Account locked,Account locked after multiple attempts.,Account Management,Medium,2025-01-18 14:38:00
+485,Crash on checkout,App crashes during checkout process.,Bug Report,High,2025-02-14 23:25:00
+486,Integration error,Error when integrating with third-party tool.,Technical Issue,Low,2025-02-04 13:44:00
+487,Unable to reset password,Reset link not working.,Account Management,High,2025-06-20 10:49:00
+488,Integration error,Error when integrating with third-party tool.,Technical Issue,High,2025-04-18 02:00:00
+489,Mobile widget,Would like a quick widget for mobile app.,Feature Request,Low,2025-06-08 23:37:00
+490,Multi-language support,Please support Spanish and French.,Feature Request,Low,2025-03-25 18:50:00
+491,Refund request,Requesting a refund for wrong billing.,Billing Inquiry,Medium,2025-06-22 05:01:00
+492,Slow performance,The app is running very slowly.,Technical Issue,High,2025-02-03 03:09:00
+493,Export to CSV,Need option to export reports as CSV.,Feature Request,High,2025-08-18 14:16:00
+494,Add dark mode,Requesting a dark theme option.,Feature Request,Low,2025-09-17 18:26:00
+495,VPN blocking service,VPN blocks the app; need help configuring.,Technical Issue,High,2025-02-28 12:50:00
+496,Export to CSV,Need option to export reports as CSV.,Feature Request,Medium,2025-03-08 18:23:00
+497,Payment not processed,Card charged but subscription inactive.,Billing Inquiry,High,2025-04-13 03:28:00
+498,App crashes on login,The app crashes when I try to log in.,Bug Report,Low,2025-09-24 04:11:00
+499,Account locked,Account locked after multiple attempts.,Account Management,Low,2025-07-13 16:35:00
+500,Crash on checkout,App crashes during checkout process.,Bug Report,Low,2025-01-08 02:22:00
