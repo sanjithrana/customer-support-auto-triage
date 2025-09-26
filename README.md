@@ -1,4 +1,4 @@
-# customer-support-auto-triage
+
 # Customer Support Ticket Auto-Triage
 
 An **AI/ML project** that classifies incoming customer support tickets into categories such as:
@@ -67,6 +67,8 @@ Priority
 Timestamp
 
 If you don’t have real data, use the included synthetic dataset.
+
+OR YOU CAN USE MY DATASET THAT I WAS CREATED BY MY OWN
 
 🏋️ Training
 Train the model and save it to models/ticket_model.joblib:
